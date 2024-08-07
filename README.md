@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer and iOS engineer.
+- 🧑‍💻 I'm a Java engineer (and a would-be iOS engineer.)
 - 🌱 I’m currently learning Swift!
 - 📫 My iOS App: [Diary And Weight](https://apps.apple.com/jp/app/%E6%97%A5%E8%A8%98%E3%81%A8%E4%BD%93%E9%87%8D-bmi%E8%A8%88%E7%AE%97-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%82%E8%A6%8B%E3%82%8C%E3%82%8B%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E6%97%A5%E8%A8%98/id6544789673)
 <br>
